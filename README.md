@@ -30,7 +30,8 @@ Clone this repository
 https://drive.google.com/file/d/1fpiqY7cW85-lxDqGOqtt7hMILzDOPFPt/view?usp=share_link
 
 
-
+**Project snapshot**
+![amazon-clone](https://user-images.githubusercontent.com/112555787/222968774-87bcfdf1-c6e5-47cf-aeec-beefd17d87e4.png)
 
 
 
