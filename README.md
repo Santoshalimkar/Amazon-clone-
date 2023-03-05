@@ -1,3 +1,4 @@
+
 # Amazon-clone
 Full-Stack ( MERN )Amazon-clone project<br>
 This is a full-stack e-commerce web application that replicates the basic functionality of Amazon.com.<br>
@@ -25,8 +26,9 @@ Clone this repository
 - Open your browser and go to http://localhost:3000/
 
 
-**Contributing
-Contributions are always welcome. Feel free to open an issue or create a pull request.**
+**PROJECT PRESENTATION** 
+https://drive.google.com/file/d/1fpiqY7cW85-lxDqGOqtt7hMILzDOPFPt/view?usp=share_link
+
 
 
 
