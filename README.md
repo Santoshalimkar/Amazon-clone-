@@ -1,6 +1,6 @@
 # Amazon-clone-
 Full-Stack ( MERN )Amazon-clone project<br>
-**Amazon Clone**
+**Amazon Clone**<br>
 This is a full-stack e-commerce web application that replicates the basic functionality of Amazon.com.<br>
 The application is built with React, MongoDB, Node.js and Express.
 
