@@ -24,7 +24,7 @@ const Signin = () => {
   async function loginUser(e) {
     e.preventDefault();
 
-    const response = await fetch("http://localhost:2585/api/login", {
+    const response = await fetch("https://amazon-clone-jd0j.onrender.com/api/login", {
 
       method: "POST",
       headers: {

@@ -17,7 +17,7 @@ const Register = () => {
  async function registerUser(e){
   e.preventDefault()
 
-  const response= await fetch('http://localhost:2585/api/register',{
+  const response= await fetch('https://amazon-clone-jd0j.onrender.com/api/register',{
     method:"POST",
     headers:{
       'content-type':'application/json',
