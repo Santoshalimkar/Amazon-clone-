@@ -1,0 +1,161 @@
+.header{
+    height: 60px;
+    display: flex;
+    position: sticky;
+    top: 0;
+    align-items: center;
+    background-color:#131921;
+    z-index: 100;
+}
+
+.logo{
+    width: 100px;
+    object-fit: contain;
+    margin: 2px 20px;
+
+
+}
+
+.header-search{
+    display: flex;
+    align-items: center;
+    flex: 1;
+    border-radius: 20px;
+}
+
+.searchicon{
+    padding: 5px;
+    width: 40px !important;
+    height: 32px  !important;
+    background-color: #cd9042;
+
+}
+
+
+.header-input{
+    width: 80%;
+    border: none;
+    height: 32px;
+    padding: 5px;
+    outline:none;
+
+}
+
+.header-input:hover{
+    border: 2px solid #cd9042;
+}
+
+
+
+
+.header-nav{
+    margin-right: 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navlist{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+
+.nav-list-1{
+    font-size: 13px;
+}
+
+.nav-list-2{
+    font-size: 15px;
+    font-weight: 800;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+
+.cart{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cartcount{
+    color: #cd9042;
+    font-weight: bold;
+}
+
+.carticon{
+    fill: white !important;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: white;
+}
+
+
+
+
+    
+@media screen and (max-width: 760px) {
+.logo{
+    margin-left: 2px;
+    width: 60px;
+    height: 60px;
+
+}
+.header-input{
+    width: 100px;
+}
+
+.header{
+    width: 130%;
+    height: 50px;
+}
+
+.header-nav{
+    align-items: center;
+    font-size: small;
+    margin-right: 30px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.nav-list-1{
+    display: none;
+    font-size: small;
+    margin-right: 0;
+    
+}
+.nav-list-2{
+    width: 40px;
+font-size: small;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

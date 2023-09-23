@@ -1,0 +1,39 @@
+.subtotal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-around;
+    padding: 20px;
+    width: 330px;
+}
+
+.subtitle{
+    word-spacing: 2pxpx;
+    margin-bottom: 10px;
+    font-size: 20px;
+    margin-left: 0px;
+    font-weight: 600;
+}
+.btt{
+    border: none;
+    background-color: #ffd714;
+    padding: 2px;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 760px) {
+    .subtotal{
+        padding: 5px;
+        font-size: small;
+    }
+
+    .cart-title{
+        font-size: 10px;
+    }
+    .subtitle{
+        font-size: 10px;
+    }
+
+    
+}
